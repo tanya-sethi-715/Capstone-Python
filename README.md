@@ -1,6 +1,5 @@
 # Capstone-Python
 <br>
-<br>
 MARKETING
 <br>
 DESCRIPTION
